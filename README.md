@@ -18,11 +18,11 @@ Here are some links to get you started:
 
 #### Quick References
 
-1.  **[Learn X in Y] (https://learnxinyminutes.com/)
+1.  [Learn X in Y](https://learnxinyminutes.com/)
 
 Learn X in Y is a website for learning different programming languages (and even a few CS topics) in a short timeframe. The languages are presented directly as code, with increasingly complex topics. This website is especially good if you are already comfortable with programming, but want to dive into a new language as quick as possible.
 
-2. **[Cheat Sheets] (https://www.cheatography.com/tag/programming/)
+2. [Cheat Sheets](https://www.cheatography.com/tag/programming/)
 
 Cheat sheets can be a good way to quickly look up information or just learn some new techniques or refresh your memory. I think they can be a good overview of techniques, but they can be hard to read and learn from.
 
@@ -32,7 +32,7 @@ The documentation for a programming language (or library) is an invaluable resou
 
 ### Courses
 
-1. **[MITx 6.00.1x and 6.00.2x] (https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
+1. [MITx 6.00.1x and 6.00.2x](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
 
 This two course sequence from MIT is a good introduction to programming in general. Even if you have experience programming, the college-level depth will likely push you and help you improve as a programmer. The first course assumes no knowledge of programming, but does require some mathematical maturity (at the high school level). You can also pay to get a certificate upon completing the course. Both courses teach Python. Personally, I did the second course in the series and found it very managable, but I came in with a lot of Python programming experience prior to taking it. Some may find the courses difficult. 
 
